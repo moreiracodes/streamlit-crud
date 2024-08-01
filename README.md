@@ -13,4 +13,4 @@ The main goal of this project was got my hands on streamlit lib and feel what I 
 
 3. Install the dependencies ` run pip install -r requeriments.txt ` 
 
-4. Run the server with the command ` run streamlit run main.py `
+4. Run the server with the command ` streamlit run main.py `
