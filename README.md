@@ -11,6 +11,6 @@ The main goal of this project was got my hands on streamlit lib and feel what I 
 
 2. If you don't use SQL SERVER, be careful! There is one T-SQL query in create table method in [line 13](https://github.com/moreiracodes/streamlit-crud/blob/main/Controllers/Costumer.py) that might not work properly in others SQL databases.
 
-3. Install the dependencies ` run pip install requeriments.txt ` 
+3. Install the dependencies ` run pip install -r requeriments.txt ` 
 
 4. Run the server with the command ` run streamlit run main.py `
